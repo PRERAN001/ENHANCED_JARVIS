@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+PyAudio==0.2.14
+requests==2.31.0
+beautifulsoup4==4.12.2
